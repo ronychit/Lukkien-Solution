@@ -1,0 +1,1 @@
+web: gunicorn lukkien.wsgi --log-file -
